@@ -1,0 +1,139 @@
+.h1accessibleHide,
+.h2accessibleHide {
+  position: absolute;
+  top: -99983px;
+  left: -99999px;
+  background-color: var(--color-black);
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.h2accessibleHide {
+  top: -99985.73px;
+}
+.mainLogosvgIcon {
+  position: relative;
+  width: 50.98px;
+  height: 31.14px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.mainLogosvg {
+  position: absolute;
+  bottom: 27.94px;
+  left: 24px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-0) 0.00929316971451044px var(--padding-0)
+    0.00929203536361456px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.menu {
+  position: absolute;
+  top: 31.5px;
+  left: 187.16px;
+  letter-spacing: 2px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.frameIcon {
+  position: absolute;
+  top: 33.5px;
+  left: 243px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.toggleMainNavigationMenu {
+  position: absolute;
+  top: calc(50% - 43.5px);
+  right: 24px;
+  width: 267px;
+  height: 87px;
+}
+.divmainHeaderNav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+  width: 390px;
+  height: 87px;
+}
+.fbCareer,
+.more {
+  position: absolute;
+  line-height: 60px;
+}
+.fbCareer {
+  top: 1px;
+  left: 0;
+  display: flex;
+  align-items: stretch;
+  width: 200px;
+  cursor: pointer;
+}
+.more {
+  top: 0;
+  left: 290px;
+  font-size: var(--font-size-base);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+}
+.ulcNavigationSportLinks {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  width: 366px;
+  height: 60px;
+}
+.sportNavigationMenu {
+  position: absolute;
+  top: -9982.73px;
+  left: -9999px;
+  font-size: var(--font-size-5xl);
+  line-height: 33.6px;
+  display: flex;
+  font-family: var(--font-arial);
+  color: var(--color-black);
+  align-items: center;
+  width: 261.54px;
+  height: 27px;
+}
+.navsportNavigation {
+  position: absolute;
+  height: calc(100% - 27px);
+  width: 100%;
+  top: 87px;
+  right: 0;
+  bottom: -60px;
+  left: 0;
+  background-color: var(--color-darkslateblue);
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-orange);
+  font-family: var(--font-oswald);
+}
+.headermainHeader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 87px;
+}
+.headermainHeaderWrapper {
+  position: relative;
+  background-color: var(--color-white);
+  width: 390px;
+  height: 148px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-roboto);
+}

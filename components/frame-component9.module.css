@@ -1,0 +1,118 @@
+.title {
+  flex: 1;
+  position: relative;
+  line-height: 11.87px;
+  font-weight: 500;
+}
+.frameWrapper,
+.titleWrapper {
+  display: flex;
+  box-sizing: border-box;
+}
+.titleWrapper {
+  width: 390px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-0);
+  align-items: flex-start;
+  justify-content: center;
+}
+.frameWrapper {
+  border-radius: var(--br-sm);
+  width: 338px;
+  flex-direction: column;
+  padding: var(--padding-9xs) var(--padding-0);
+  align-items: center;
+  justify-content: flex-start;
+}
+.loremIpsumDolor {
+  position: relative;
+  line-height: 19.9px;
+  font-weight: 300;
+  display: inline-block;
+  width: 314px;
+  flex-shrink: 0;
+}
+.loremIpsumDolorSitAmetCoWrapper {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: 13.96px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.frameParent {
+  align-self: stretch;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-10xs) var(--padding-lg);
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameChild {
+  position: relative;
+  border-top: 1px solid var(--color-orange);
+  box-sizing: border-box;
+  width: 130.1px;
+  height: 1px;
+}
+.lineWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instanceChild {
+  position: relative;
+  width: 116px;
+  height: 57px;
+  object-fit: cover;
+}
+.reusAtResearch {
+  margin: 0;
+}
+.name {
+  position: relative;
+  line-height: 16.26px;
+  font-weight: 500;
+}
+.instanceGroup,
+.vectorParent {
+  display: flex;
+  justify-content: center;
+}
+.vectorParent {
+  background-color: var(--color-white);
+  width: 131px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: var(--padding-6xs) var(--padding-0);
+  box-sizing: border-box;
+  align-items: center;
+  gap: var(--gap-3xs);
+}
+.instanceGroup {
+  width: 390px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 43.89px;
+  font-size: 14.66px;
+  color: var(--color-black);
+}
+.instanceParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: 18.45px;
+  color: var(--color-darkslateblue);
+  font-family: var(--font-oswald);
+}

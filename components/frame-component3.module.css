@@ -1,0 +1,62 @@
+.textHolder {
+  position: relative;
+  line-height: 11.04px;
+  font-weight: 600;
+}
+.instanceChild {
+  position: relative;
+  width: 21px;
+  height: 21px;
+}
+.textHolderParent {
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-orange);
+  width: 150px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--gap-6xs);
+}
+.instanceItem {
+  position: relative;
+  border-radius: var(--br-11xl) 0 var(--br-11xl) 0;
+  width: 178.17px;
+  height: 90.22px;
+  object-fit: cover;
+}
+.celebMakerLab {
+  margin: 0;
+}
+.placeholder {
+  position: relative;
+  line-height: 11.04px;
+}
+.placeholderWrapper {
+  border-radius: 0 var(--br-xl) 0 0;
+  background-color: var(--color-darkslateblue);
+  display: none;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-xs) var(--padding-9xs)
+    var(--padding-9xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 8.43px;
+  color: var(--color-orange);
+}
+.instanceParent {
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  text-align: right;
+  font-size: 12.43px;
+  color: var(--color-darkslateblue);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,272 @@
+.title {
+  flex: 1;
+  position: relative;
+  line-height: 11.87px;
+  font-weight: 500;
+}
+.frameWrapper,
+.titleWrapper {
+  display: flex;
+  box-sizing: border-box;
+}
+.titleWrapper {
+  width: 390px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-8xs) var(--padding-0);
+  align-items: flex-start;
+  justify-content: center;
+}
+.link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+.frameWrapper {
+  border-radius: var(--br-sm);
+  width: 338px;
+  flex-direction: column;
+  padding: var(--padding-9xs) var(--padding-0);
+  align-items: center;
+  justify-content: flex-start;
+}
+.celebMakerLab {
+  text-decoration: underline;
+  color: var(--color-darkslategray);
+}
+.loremIpsumDolorContainer {
+  position: relative;
+  line-height: 19.9px;
+  font-weight: 300;
+  display: inline-block;
+  width: 314px;
+  flex-shrink: 0;
+}
+.loremIpsumDolorSitAmetCoWrapper {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: 13.96px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.frameParent {
+  background-color: var(--color-white);
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-10xs) var(--padding-lg) var(--padding-0);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 18.45px;
+  color: var(--color-darkslateblue);
+}
+.frameChild {
+  position: relative;
+  border-top: 1px solid var(--color-orange);
+  box-sizing: border-box;
+  width: 130.1px;
+  height: 1px;
+}
+.lineWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-7xs) var(--padding-0);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sparkingCreativityAndCollab {
+  margin: 0;
+}
+.blankLine1 {
+  font-weight: 600;
+}
+.learnMore1 {
+  text-decoration: underline;
+}
+.learnMore {
+  margin: 0;
+  font-size: 85%;
+  color: var(--color-darkslateblue);
+}
+.loremIpsumDolorContainer1 {
+  flex: 1;
+  position: relative;
+  line-height: 11.04px;
+}
+.instanceGroup,
+.loremIpsumDolorSitAmetCoContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.loremIpsumDolorSitAmetCoContainer {
+  background-color: var(--color-white);
+  width: 172px;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 10.43px;
+  color: var(--color-black);
+}
+.instanceGroup {
+  align-self: stretch;
+  padding: var(--padding-0) var(--padding-mini);
+  gap: var(--gap-3xs);
+}
+.ignitingStudentCreativity {
+  font-family: var(--font-roboto);
+}
+.ignitingStudentCreativityAn1 {
+  font-size: 10.43px;
+  color: var(--color-black);
+}
+.blankLine4,
+.span {
+  font-family: var(--font-roboto);
+}
+.blankLine4 {
+  font-weight: 600;
+}
+.span {
+  margin: 0;
+  font-size: 75%;
+  color: var(--color-darkslateblue);
+}
+.loremIpsumDolorSitAmetCoFrame {
+  background-color: var(--color-white);
+  width: 172px;
+  height: 59px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instanceChild {
+  position: relative;
+  width: 21px;
+  height: 21px;
+}
+.textHolder {
+  position: relative;
+  line-height: 11.04px;
+  font-weight: 600;
+}
+.instanceParent1 {
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-orange);
+  width: 150px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.instanceItem {
+  position: relative;
+  border-radius: 0 var(--br-11xl) 0 var(--br-11xl);
+  width: 178.06px;
+  height: 90.33px;
+  object-fit: cover;
+}
+.frameDiv,
+.instanceContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.frameDiv {
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  text-align: center;
+}
+.instanceContainer {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-0) var(--padding-mini);
+  gap: var(--gap-3xs);
+}
+.broadeningHorizonsAndContainer {
+  position: relative;
+  line-height: 11.04px;
+  display: inline-block;
+  width: 171.83px;
+  flex-shrink: 0;
+}
+.frameContainer,
+.instanceParent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instanceParent2 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: var(--padding-0) var(--padding-mini);
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: 10.43px;
+  color: var(--color-black);
+}
+.frameContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  flex-direction: column;
+  gap: var(--gap-9xl);
+}
+.frameItem {
+  position: absolute;
+  top: 5px;
+  left: 194.25px;
+  width: 1.5px;
+  height: 410px;
+}
+.frameGroup {
+  position: relative;
+  width: 390px;
+  height: 418px;
+  text-align: right;
+  font-size: 12.43px;
+  color: var(--color-darkslateblue);
+  font-family: var(--font-roboto);
+}
+.faculty {
+  position: relative;
+  line-height: 14.26px;
+  font-weight: 500;
+}
+.facultyWrapper {
+  background-color: var(--color-white);
+  width: 390px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.instanceParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-oswald);
+}
