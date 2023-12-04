@@ -31,7 +31,7 @@ The following REQUIRED features are completed:
 - [x] Deploy in vercel
 
 
-## 🎥 Demo Video
+## 🎥 Demo Video (wait 5-10 seconds to load the visualization)
 
 Here's a video that demos all of the app's implemented features:
 
