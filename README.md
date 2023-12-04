@@ -30,9 +30,9 @@ The following REQUIRED features are completed:
 - [x] Deploy in vercel
 
 
-## Video Demo
+## 🎥 Demo Video
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a video that demos all of the app's implemented features:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://ezgif.com/video-to-gif?url=https://example.com/video.mp4' title='Video Demo' width='' alt='Video Demo' />
 
