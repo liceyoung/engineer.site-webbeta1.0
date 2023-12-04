@@ -34,7 +34,7 @@ The following REQUIRED features are completed:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='https://github.com/liceyoung/engineer.site-webbeta1.0/blob/main/optimizeenginerrscreen.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/liceyoung/engineer.site-webbeta1.0/blob/main/optimizeenginerrscreen.gif' title='Video Demo' width='' alt='Video Demo'/>
 
 
 ## Deploy Loop by me
