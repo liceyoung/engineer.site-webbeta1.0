@@ -40,7 +40,7 @@ Here's a video that demos all of the app's implemented features:
 ## Deploy Loop by me
 <img src='https://github.com/liceyoung/engineer.site-webbeta1.0/blob/main/deploy%20cycle.jpg' title='Chosen Screenshot' width='' alt='My Notes' />
 
-## Scratch Overview 
+## Scratch UI Overview 
 <img src='https://github.com/liceyoung/engineer.site-webbeta1.0/blob/main/Galaxy%20Drawings%20Slides%20Theme.png' />
 
 ## License
