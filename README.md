@@ -14,7 +14,6 @@ By: **Thao Duong**
 ## Summary
 
 **1.0 engineer site** is an demo/beta version of engineer site which is one of the site I have design from srcatch: wire framing, figma mockups and then use next.js, typescript, js, css to build up. This site transfrom information arrangement based on learning curriculum of engineering major/ resource in Beloit College.
-**Change or add to this description**
 
 Three (3) emojis to describe my feeling after design & coding this site : **:panda_face: :chart_with_upwards_trend: :expressionless:**
 
